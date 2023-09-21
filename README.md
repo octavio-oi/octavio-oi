@@ -1,16 +1,13 @@
-### Hi there 👋
+# **/Bo(m|a) (dia|tarde|noite|madugrada)/g**
 
-<!--
-**octavio-oi/octavio-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Octavio Veiga, vujo octavio_oi. :D
 
-Here are some ideas to get you started:
+## Carreiras
+- Ainda não tenho, to em busca do primeiro emprego. :V
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos
+- Desenvolvedor Frontend á 1 anos, estudando por conta própria;
+- Técnico em Eletrônica á 1 anos, pela Grau Técnico - 2020 a 2022;
+- Entusiasta de projetos em Eletrônica desde 2018, estudando por conta própria.
+
+### "A verdadeira networking são os amigos que fazemos pelo caminho." veiga, octavio 2023
