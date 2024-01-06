@@ -3,7 +3,7 @@
 Eu sou Octavio Veiga, vujo octavio_oi. :D
 
 ## Carreiras
-- Ainda não tenho, to em busca do primeiro emprego. :V
+- Atualmente trabalhando na Morhar automação residencial.
 
 ## Conhecimentos
 - Desenvolvedor Frontend á 1 anos, estudando por conta própria;
